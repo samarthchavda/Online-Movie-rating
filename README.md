@@ -20,14 +20,14 @@ Validation and Security: Implements validation libraries like Joi and handles cr
 
 This project showcases how to build a complete web application that combines frontend design, backend development, database management, and external API usage.
 
-first install dependacies 
-#npm i express cors mongoose joi - in server 
-# npm i react-router-dom - fronted
+ # first install dependacies 
+npm i express cors mongoose joi - in server 
+npm i react-router-dom - fronted
 
-* start server
-# cd server 
-# npm run dev 
+# start server
+ cd server 
+ npm run dev 
 
-* start fronted 
-# cd fronted
-# npm start 
+# start fronted 
+cd fronted
+npm start 
